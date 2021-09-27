@@ -1,0 +1,45 @@
+header {
+    border: green solid 2px;
+    text-align: center;
+    padding: 50px;
+}
+
+.main-content {
+    border: green solid 2px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 200px;
+}
+
+footer {
+    border: green solid 2px;
+    text-align: center;
+    padding: 50px;
+}
+
+.book1 {
+    background-image: url("https://cdn.mos.cms.futurecdn.net/VUL4TtyNpBkotYckYEjUrQ-1200-80.jpg");
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+.book2 {
+    background-image: url("/images/dong\ co\ 2.png");
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+.book3 {
+    background-color: chartreuse;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+btn btn-primary {
+    position: absolute;
+    clip: rect(0, 0, 0, 0);
+    pointer-events: none;
+}
